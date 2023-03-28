@@ -6,4 +6,6 @@ def main(list1):
     Returns:
         list: return answer
     """
-    return
+    list1 = [8,64,2,0,6,3]
+    list2 = [0 in list1]
+    return list2
