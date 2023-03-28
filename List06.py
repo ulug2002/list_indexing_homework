@@ -6,4 +6,7 @@ def main(list1):
     Returns:
         list: return answer
     """
-    return
+    list1 = [0,0,1,0,1]
+    list2 = [1  in list1]
+    return list2
+print(main(list1 = 1))
