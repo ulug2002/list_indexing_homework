@@ -8,3 +8,4 @@ def main(list1):
     """
     list1 = [1,2,'a',1,5,3,5,4,42]
     return list1[-1]
+print(main(list1=1))
