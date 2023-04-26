@@ -6,4 +6,7 @@ def main(list_num):
     Returns:
         int: return answer
     """
-    return
+    a = max (list_num[0], list_num[-1])
+    return a
+
+print(main([9, 32, 1, 4, 3]))
